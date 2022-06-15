@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import React, {useContext} from 'react';
+import React from 'react';
 
 //Components
 import { Budget } from './components/Budget';
@@ -9,8 +9,7 @@ import { ExpenseList } from './components/ExpenseList';
 import { AddExpenseForm } from './components/AddExpenseForm'
 
 //App Context
-import { AppContext, AppProvider } from './context/AppContext';
-import { EditBudgetForm } from './components/EditBudgetForm';
+import { AppProvider } from './context/AppContext';
 
 
 
