@@ -1,46 +1,17 @@
 # React Budget Planner
+A simple budget tracker react app project I built to help me get familiar with React and Bootstrap.
 
-This is a basic budget app. It allows the user to create and edit a budget, add and delete expenses. This project was created using React and Bootstrap.
-
-## Table of contents
-
-- [React Budget Planner](#react-budget-planner)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [Continued development](#continued-development)
-  - [Author](#author)
-
-
-## Overview
+View the live site here: [Budget Planner](https://budget-tracker460.netlify.app/)
 
 ### Screenshot
 
 ![](./src/images/Screenshot.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
-
 ### Built with
 
-- React
-- Bootstrap
-- JS
 - [React](https://reactjs.org/) - JS library
 - [Bootstrap](https://getbootstrap.com/) - For styles
+- [UUID](https://www.npmjs.com/package/uuid)
 
-### Continued development
+Check out my other projects here: [Mick Maratta](https://mickmaratta.me/)
 
-Continue focusing on developing efficient ways to create components. Start working with Redux to improve state management. 
-
-## Author
-
-- Website - [Mick Maratta](https://www.mickmaratta.me)
-- GitHub - [@mickmaratta](https://github.com/mickmaratta)
